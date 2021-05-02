@@ -1,0 +1,19 @@
+{
+  "name": "dicoding-bookself-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qitaal/Dicoding-Bookself-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qitaal/Dicoding-Bookself-API/issues"
+  },
+  "homepage": "https://github.com/Qitaal/Dicoding-Bookself-API#readme"
+}
